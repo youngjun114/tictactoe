@@ -1,0 +1,9 @@
+.square {
+  background-color: honeydew;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 120px;
+  border: 2px solid white;
+}
